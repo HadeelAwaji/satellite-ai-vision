@@ -18,7 +18,7 @@
 
 ## 📌 About
 
-SatelliteAI Vision is a web-based tool for analyzing satellite and aerial imagery using AI. It started as a desktop Python/Tkinter application and was upgraded into a fully deployable web app with three AI-powered features accessible through a browser — no installation required.
+SatelliteAI Vision is a personal AI project for analyzing satellite and aerial imagery. It began as a desktop Python/Tkinter prototype and was later rebuilt into a deployable web application with three AI-powered features accessible through a browser.
 
 ---
 
@@ -109,5 +109,5 @@ satellite-ai-vision/
 MIT License — free to use, modify, and distribute.
 
 ---
-
+Note: This project is a personal work and is not affiliated with any organization or institution.
 *Built with ❤️ using Python, Gradio, and open-source AI models.*
