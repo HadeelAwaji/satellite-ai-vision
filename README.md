@@ -110,4 +110,5 @@ MIT License — free to use, modify, and distribute.
 
 ---
 Note: This project is a personal work and is not affiliated with any organization or institution.
+---
 *Built with ❤️ using Python, Gradio, and open-source AI models.*
