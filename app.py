@@ -15,7 +15,7 @@ MAX_PIXELS = 2000   # Auto-resize longest side to this on any upload
 @functools.lru_cache(maxsize=1)
 def get_yolo_model():
     from ultralytics import YOLO
-    return YOLO("yolov8n.pt")
+    return YOLO("yolov8m.pt")  # medium → أفضل دقة للكائنات الصغيرة مثل النباتات والمباني
 
 @functools.lru_cache(maxsize=2)
 def get_sr_model(scale=2):
