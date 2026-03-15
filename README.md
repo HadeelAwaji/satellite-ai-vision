@@ -126,6 +126,7 @@ Satellite imagery enhancement
 ---
 
 Note: This project is a personal work and is not affiliated with any organization or institution.
+Note: Object detection accuracy depends on image type and model. Fine-tuning on satellite imagery can significantly improve detection of small objects like plants and buildings.
 
 ---
 *Built with ❤️ using Python, Gradio, and open-source AI models.*
