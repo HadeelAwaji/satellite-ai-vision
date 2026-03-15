@@ -3,6 +3,7 @@
 > AI-powered satellite and aerial image analysis — live on HuggingFace Spaces
 
 ⚠️ This project is currently a work in progress and will continue to be improved with additional features and optimizations.
+
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace-yellow)](https://huggingface.co/spaces/SatelliteAI-Vision/satellite-ai-vision)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![Gradio](https://img.shields.io/badge/Gradio-6.8-orange)](https://gradio.app)
