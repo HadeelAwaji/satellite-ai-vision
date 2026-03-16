@@ -34,7 +34,7 @@ Enhances low-resolution satellite images using the **EDSR (Enhanced Deep Super-R
 ### 📦 Object Detection
 Detects objects in aerial imagery using **YOLOv8n**. Identifies vehicles (cars, trucks, buses), aircraft, boats, trains, and people with labeled bounding boxes and confidence scores. Color-coded by object class.
 
-![Object Detection](images/object_detection.jpg)
+![Object Detection](images/object_detection.png)
 
 ### 🗺️ AI Change Detection
 Bi-temporal change analysis between two satellite images of the same area:
@@ -42,12 +42,13 @@ Bi-temporal change analysis between two satellite images of the same area:
 - **Histogram-matched pixel differencing** — normalizes lighting/seasonal differences
 - **Semantic region labeling** — classifies changes as vegetation, water, urban/built, bare soil, or general
 - Outputs: change overlay, heatmap, and binary mask
-| Before | After |
-|--------|-------|
+
 | ![Before](images/change_detection_before.png) | ![After](images/change_detection_after.png) |
 
 ### 🚀 Full Pipeline
 Runs all three operations sequentially on a pair of images with a single click.
+
+![Full Pipeline](images/Full.pipeline.png)
 
 ---
 
